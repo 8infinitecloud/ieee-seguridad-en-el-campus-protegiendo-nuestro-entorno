@@ -10,7 +10,7 @@ La gestión de incidentes de seguridad implica procesos como preparación, detec
 ## Conclusión
 La seguridad es un campo dinámico que requiere un compromiso constante con la mejora y el aprendizaje continuo. Mantenerse actualizado con las últimas tendencias, tecnologías y prácticas de seguridad es crucial para hacer frente a las cambiantes amenazas y desafíos de seguridad.
 # Referencias
-NIST (National Institute of Standards and Technology). (2011). "Guidelines on Security and Privacy in Public Cloud Computing”. Enlace
-NIST (National Institute of Standards and Technology). (2011). "Computer Security Incident Handling Guide”. Enlace
-AWS Security Incident Response Guide. Enlace
-Microsoft Security Blog. Enlace
+NIST (National Institute of Standards and Technology). (2011). "Guidelines on Security and Privacy in Public Cloud Computing”.
+NIST (National Institute of Standards and Technology). (2011). "Computer Security Incident Handling Guide”.
+AWS Security Incident Response Guide.
+Microsoft Security Blog.
